@@ -15,5 +15,5 @@ open the file and replace these lines
 ![Imgur](https://i.imgur.com/dnGyoQN.png)
 
 to the path to your input.txt and output.txt  
-eg. /home/<your name>/Documents/Compititive/input.txt  
+eg. /home/\<your name\>/Documents/Compititive/input.txt  
 same for output.txt
