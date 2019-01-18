@@ -1,0 +1,6 @@
+cd $comp
+mkdir problem-$1
+cd problem-$1
+touch $1.cpp
+cat $cpp_temp > $1.cpp
+subl *
